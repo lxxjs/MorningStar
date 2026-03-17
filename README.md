@@ -40,9 +40,8 @@ python run.py
 The scraper will:
 
 1. Launch a Chromium browser
-2. Warm up a session (accept cookies, prime connections)
-3. Scrape all configured ISINs concurrently (default: 8 workers, 3 pages per fund)
-4. Save results to `output/morningstar_scraped.xlsx`
+2. Scrape all configured ISINs concurrently (default: 8 workers, 3 pages per fund)
+3. Save results to `output/morningstar_scraped.xlsx`
 
 ### Configure
 
