@@ -1,0 +1,15 @@
+.claude/
+.venv/
+output/*
+!output/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# macOS
+.DS_Store
